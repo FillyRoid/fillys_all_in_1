@@ -20,19 +20,16 @@ def get_size(data, is_active):
             if max_height < app[1]:
                 max_height = app[1]
 
-            print(app)
     else:
         for app in data["closed_size"]:
             win_width += app[0]
             if max_height < app[1]:
                 max_height = app[1]
 
-            print(app)
 
     win_width += 40 + (10*apps_amount)
     max_height += 40
 
-    print([win_width, max_height])
 
     return win_width, max_height
 

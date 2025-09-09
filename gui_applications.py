@@ -329,7 +329,6 @@ class GUI_key_buttons:
             #buttons
             for i in range(2):
                 if counter - 1 < self.__apps_amount:
-                    print(type(self.__apps_list[0]))
                     ctk.CTkButton(
                         self.__app_frame,
                         width=25,
