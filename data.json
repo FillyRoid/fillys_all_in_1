@@ -1,7 +1,0 @@
-{
-  "name": ["volume_mixer"],
-  "open_size": [[310, 50]],
-  "closed_size": [[90, 75]],
-  "visible": [true],
-  "gui_frame": []
-}

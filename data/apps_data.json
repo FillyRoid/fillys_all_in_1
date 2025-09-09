@@ -1,0 +1,7 @@
+{
+  "name": ["volume_mixer", "key_buttons"],
+  "open_size": [[310, 50], [115, 115]],
+  "closed_size": [[90, 75], [55, 75]],
+  "visible": [true, true],
+  "gui_frame": []
+}

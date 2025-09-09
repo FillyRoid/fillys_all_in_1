@@ -1,0 +1,7 @@
+{
+  "apps":
+  [
+    "gnome-calculator",
+    ["gnome-screenshot", "--interactive"]
+  ]
+}
